@@ -1,0 +1,57 @@
+.envato-kit-171-price-style-one .elementor-price-list-title { 
+	max-width: 100% !important;
+	width: 100%;
+}
+
+.envato-kit-171-price-style-one .elementor-price-list-title { 
+ 	padding: 23px 0px 23px 39px;
+  background: #ffffff;
+}
+
+.envato-kit-171-price-style-two .elementor-price-list-price { 
+	padding: 23px 20px 23px 20px;
+	color: #ffffff;
+ 	background: #FB7923;
+}
+
+.envato-kit-171-button-full-width .elementor-form-fields-wrapper button, [type="button"], [type="submit"] { 
+	width: 100%;
+}
+
+.envato-kit-171-gallery-img-hover .elementor-column-wrap:hover .elementor-inner-section {
+	opacity: 1;
+}
+
+.envato-kit-171-gallery-img-hover .elementor-column-wrap .elementor-inner-section {
+	opacity: 0;
+	transition: all .3s ease-in-out;
+}
+
+.envato-kit-171-list-style .elementor-text-editor p {
+	margin: 0;
+}
+
+.envato-kit-171-list-style .elementor-text-editor p:before {
+	content: '\2022';
+	color: #FB7923;
+	padding-right: 15px;
+}
+
+.envato-kit-171-icon-list-style .elementor-icon-list-icon {
+	position: relative;
+	top: -8px;
+} 
+
+.envato-kit-171-accordion-style .elementor-accordion-item {
+	border-top: 0;
+	border-left: 0;
+	border-right: 0;
+} 
+
+.envato-kit-171-accordion-style .elementor-accordion-item:last-child {
+	border-bottom: 0;
+} 
+
+.envato-kit-171-full-button .elementor-button {
+	width: 100%;
+}
