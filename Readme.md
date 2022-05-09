@@ -1,4 +1,3 @@
-![blog-img-husky](https://i.ibb.co/9Ws5mbt/Screen-Shot-2022-05-05-at-16-55-27.png)<h1>How use wordpress local with xampp</h1><article id="post-5251" class="post-5251 post type-post status-publish format-standard has-post-thumbnail hentry category-wordpress-tutorials">
 <p>Want to install XAMPP and WordPress – aka. install WordPress locally? This is a great idea if you want a development site that can be used for testing or other purposes. XAMPP lets you run a website from your very own computer. And once you get it set up, you can spin up a new WordPress install with just a few clicks.</p>
 <p>But to actually install XAMPP and WordPress can be a little tricky, so you might need a helping hand.</p>
 <p>In this step-by-step tutorial, I’ll show you exactly how to install XAMPP and set up a local WordPress development site. I’ll also share some common XAMPP errors and troubleshooting tips so that you can fix any problems you encounter (<em>though most people won’t experience any issues following this guide!</em>).</p>
@@ -103,5 +102,4 @@
 <p>Look for a line of code that starts with <code>Alias /phpmyadmin.</code></p>
 <p>Within that code block, you should see a line that says <code>Require local</code>. Change that line to say <code>Require all granted</code> instead.</p>
 <p>That should fix the XAMPP database access forbidden error and give you access to phpMyAdmin.</p>
-<h2 style="text-align: center">and Voila!</h2>
 </article>
